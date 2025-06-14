@@ -1,40 +1,39 @@
-<<<<<<< HEAD
-# 🏡 House Price Prediction – Advanced Regression Techniques
+House Price Prediction – Advanced Regression Techniques
 
 This project uses data from the [Kaggle House Prices competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) to predict home sale prices using machine learning.
 
-## 📊 Dataset:
+## Dataset:
 - `train.csv`, `test.csv` from Kaggle
 
-## 🧠 Project Steps
+Project Steps
 
-### 1. 🕵️ Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 - Missing value analysis
 - Outlier detection
 - Correlation 
 
-### 2. 🔧 Data Preprocessing
+### 2. Data Preprocessing
 - Fill missing values, encoding, transformation
 
-### 3. 🛠 Feature Engineering
+### 3. Feature Engineering
 - Generated top features based on correlation
 - Transformed skewed features using log1p
 - Encoded categorical variables 
 
-### 4. 🤖 Model Training
+### 4. Model Training
 Implemented Models:
-- ✅ Random Forest Regressor
-- ✅ XGBoost Regressor
+- Random Forest Regressor
+- XGBoost Regressor
 
-### 5. 📈 Model Evaluation
+### 5. Model Evaluation
 - Root Mean Squared Error (RMSE)
 
 
-## 🏁 Final Output
+## Final Output
 
 - `submission.csv` file ready for Kaggle submission
 
-## 🚀 How to Run
+## How to Run
 
 **Install dependencies**:
 
